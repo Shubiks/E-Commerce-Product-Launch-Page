@@ -1,0 +1,17 @@
+Request url - http://localhost:8080/api/users
+
+{
+        "firstName": "Alice",
+        "lastName": "Smith",
+        "email": "alice.smith@example.com"
+    }
+    {
+        "firstName": "Bob",
+        "lastName": "Johnson",
+        "email": "bob.johnson@example.com"
+    }
+    {
+        "firstName": "Carol",
+        "lastName": "Williams",
+        "email": "carol.williams@example.com"
+    }
